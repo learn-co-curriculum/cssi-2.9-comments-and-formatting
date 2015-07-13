@@ -10,7 +10,7 @@ After the lesson, you'll understand:
 + how to write well commented, well formatted javascript
 
 ## Motivation:
-Look in the samples folder. Both files do exactly the same thing, but one makes sense and the other doesn't.
+Look in the `samples` folder in the Github repository. Both files do exactly the same thing, but one makes sense and the other doesn't.
 
 What would you do if you had to fix a bug in one of these programs?
 
