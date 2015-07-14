@@ -7,7 +7,7 @@ languages: javascript
 
 After the lesson, you'll understand:
 + importance of comments, formatting, and documentation
-+ how to write well commented, well formatted javascript
++ how to write well commented, well formatted JavaScript
 
 ## Motivation:
 Look in the `samples` folder in the Github repository. Both files do exactly the same thing, but one makes sense and the other doesn't.
@@ -46,10 +46,10 @@ In CSS, we formatted nicely, reused what we could, and wrote comments like this:
    lines
 */
 ```
-In Javascript, comments will be even more important! Unlike HTML and CSS, which just describe the page, Javascript takes actions - it will be harder to understand what something is from just looking at it. Let's see what javascript comments look like:
+In JavaScript, comments will be even more important! Unlike HTML and CSS, which just describe the page, JavaScript takes actions - it will be harder to understand what something is from just looking at it. Let's see what JavaScript comments look like:
 ```
-// this is a javascript comment
-/* this is a javascript comment
+// this is a JavaScript comment
+/* this is a JavaScript comment
 as well! It goes until the */
 ```
 
@@ -59,7 +59,7 @@ Meaningful names for variables and functions are even more important than good c
 > Jeff Atwood, cofounder of StackOverflow
 
 ####Rules of thumb
-+ look up the rules for case syntax with variable and function names (javascript tends to use camelCase)
++ look up the rules for case syntax with variable and function names (JavaScript tends to use camelCase)
 + give variables and parameters meaningful names
   + think about what the variable represents, where it is coming from, what its role is
   + consider whether your name should be plural or singular - is `name_array` or `names` better?
