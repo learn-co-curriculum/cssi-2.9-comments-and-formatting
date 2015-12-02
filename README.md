@@ -61,3 +61,5 @@ Meaningful names for variables and functions are even more important than good c
   + consider whether your name should be plural or singular - is `name_array` or `names` better?
 + be consistent!
 + take your time! Variable names matter, so it's okay to spend time thinking about it!
+
+<a href='https://learn.co/lessons/cssi-2.9-comments-and-formatting' data-visibility='hidden'>View this lesson on Learn.co</a>
