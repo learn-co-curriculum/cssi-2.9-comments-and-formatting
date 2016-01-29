@@ -62,4 +62,4 @@ Meaningful names for variables and functions are even more important than good c
 + be consistent!
 + take your time! Variable names matter, so it's okay to spend time thinking about it!
 
-<a href='https://learn.co/lessons/cssi-2.9-comments-and-formatting' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2.9-comments-and-formatting' title='Javascript Comments and Formatting'>Javascript Comments and Formatting</a> on Learn.co and start learning to code for free.</p>
